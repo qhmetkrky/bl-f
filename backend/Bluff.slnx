@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Bluff.Api/Bluff.Api.csproj" />
+    <Project Path="src/Bluff.Core/Bluff.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Bluff.Tests/Bluff.Tests.csproj" />
+  </Folder>
+</Solution>
